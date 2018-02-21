@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Down Tube</string>
+    <string name="loading_splash">Loading</string>
+    <string name="vimeo_activity_name">Vimeo</string>
+
+    <string name="video_title_key">Video Title</string>
+    <string name="video_thumbnail_key">Video Thumbnail</string>
+    <string name="download_action">Download</string>
+    <string name="cancel_action">Cancel</string>
+
+    <string name="play_video">Play</string>
+</resources>
